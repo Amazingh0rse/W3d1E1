@@ -1,4 +1,4 @@
-https://travis-ci.com/Amazingh0rse/W3d1E1.svg?branch=master
+[![Build Status](https://travis-ci.com/Amazingh0rse/W3d1E1.svg?branch=master)](https://travis-ci.com/Amazingh0rse/W3d1E1)
 
 Ultra simple Java Project meant for a Travis introduction
 
