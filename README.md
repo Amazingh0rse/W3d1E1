@@ -1,4 +1,4 @@
-
+https://travis-ci.com/Amazingh0rse/W3d1E1.svg?branch=master
 
 Ultra simple Java Project meant for a Travis introduction
 
